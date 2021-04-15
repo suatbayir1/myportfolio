@@ -45,7 +45,7 @@ export default function UserProfile() {
           <Card>
             <CardHeader color="primary">
               <h4 className={classes.cardTitleWhite}>Profili düzenle</h4>
-              <p className={classes.cardCategoryWhite}>Profilinizi doldurun</p>
+              <p className={classes.cardCategoryWhite}>Profilinizi doldur</p>
             </CardHeader>
             <CardBody>
               <GridContainer>
